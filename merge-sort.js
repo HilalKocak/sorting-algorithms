@@ -36,4 +36,4 @@ const mergeSort = (array) => {
 
 }
 
-console.log(merge([3,6], [2,4,9]))
+console.log(mergeSort([1,10,5,32,7,8]))
